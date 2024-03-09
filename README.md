@@ -5,7 +5,7 @@
 
 Please read LICENCE before using or contibuting to this project.
 
-[INSTALLER LINK](https://github.com/e1400879-8afc-4819-bb27-14c5f5f12be7)
+[INSTALLER LINK](https://github.com/Omena0/Fr-client/blob/master/dist/install.exe)
 
 ## Features
 
