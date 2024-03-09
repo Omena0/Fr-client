@@ -5,6 +5,8 @@
 
 Please read LICENCE before using or contibuting to this project.
 
+[INSTALLER LINK](https://github.com/Omena0/Fr-client/raw/main/dist/install.exe)
+
 ## Features
 
 - Addons (Premium)
