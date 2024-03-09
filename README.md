@@ -7,12 +7,13 @@ Please read LICENCE before using or contibuting to this project.
 
 ## Features
 
-- Premium
-- Installer
-- Installs mc and mods automatically
-- Nice UI (100% not stolen from sussylauncher)
-- WebView Login screen
-- Mods to increase general performance and quality of life / graphics improvements.
+- Addons (Premium)
+- Best ingame performance out there (dm me if u find something better)
+- Easy launcher & minecraft installation
+- Anticheat (beta)
+- Gui, Immersion, Shaders, ect
+- WebView Login window
+- Nice launcher UI
 
 ## Installing
 
