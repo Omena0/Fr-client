@@ -5,7 +5,6 @@ installer/scripts/installScript_Customised.bat
 modules.txt 
 build.cmd 
 __* 
-*.zip 
 *.cmd 
 *.bat 
 *keygen* 
