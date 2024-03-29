@@ -1,5 +1,6 @@
+# [INSTALLER LINK](https://github.com/Omena0/Fr-client/raw/main/dist/install.exe)
 
-# Fr-client
+## Fr-client
 
  Fr client: fr the best client
 
