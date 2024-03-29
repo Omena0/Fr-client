@@ -4,7 +4,7 @@ build
 installer/scripts/installScript_Customised.bat 
 modules.txt 
 build.cmd 
-__*
+__* 
 *.zip 
 *.cmd 
 *.bat 
