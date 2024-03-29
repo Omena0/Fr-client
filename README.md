@@ -1,0 +1,21 @@
+
+# Fr-client
+
+ Fr client: fr the best client
+
+Please read LICENCE before using or contibuting to this project.
+
+## Features
+
+- Addons (Premium)
+- Best ingame performance out there (dm me if u find something better)
+- Easy launcher & minecraft installation
+- Anticheat (beta)
+- Gui, Immersion, Shaders, ect
+- WebView Login window
+- Nice launcher UI
+
+## Installing
+
+- Download installer
+- Run it
