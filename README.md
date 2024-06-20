@@ -1,4 +1,4 @@
-# [INSTALLER LINK](https://github.com/Omena0/Fr-client/raw/main/dist/install.exe)
+# [INSTALLER LINK](https://github.com/Omena0/Fr-client/raw/main/dist/Fr-client_installer.exe)
 
 ## Fr-client
 
