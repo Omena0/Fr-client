@@ -2,7 +2,7 @@
 
 ## Fr-client
 
- Fr client: fr the best client
+ Fr client: Fr the best client
 
 Please read LICENCE before using or contibuting to this project.
 
