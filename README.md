@@ -1,4 +1,4 @@
-# ➡➡➡ [INSTALLER LINK](https://github.com/Omena0/Fr-client/raw/main/dist/install.exe) ⬅⬅⬅
+# [INSTALLER LINK](https://github.com/Omena0/Fr-client/raw/main/dist/install.exe)
 
 ## Fr-client
 
@@ -10,11 +10,16 @@ Please read LICENCE before using or contibuting to this project.
 
 - Addons (Premium)
 - Best ingame performance out there (dm me if u find something better)
+- Ingame Gui, Immersion, Shaders, ect
 - Easy launcher & minecraft installation
 - Anticheat (beta)
-- Gui, Immersion, Shaders, ect
 - WebView Login window
-- Nice launcher UI
+- Good launcher UI
+
+## Addons list
+
+- ChatResponder: Respond to chat messages using regex rules
+- ChatBot: AI chatbot (ollama & phi3 required)
 
 ## Installing
 
