@@ -1,8 +1,8 @@
-# [INSTALLER LINK](https://github.com/Omena0/Fr-client/raw/main/dist/install.exe)
+# [INSTALLER LINK](https://github.com/Omena0/Fr-client/raw/main/dist/Fr-client_installer.exe)
 
 ## Fr-client
 
- Fr client: fr the best client
+ Fr client: Fr the best client
 
 Please read LICENCE before using or contibuting to this project.
 
@@ -19,7 +19,6 @@ Please read LICENCE before using or contibuting to this project.
 ## Addons list
 
 - ChatResponder: Respond to chat messages using regex rules
-- Main addon: Fr-client extras
 - ChatBot: AI chatbot (ollama & phi3 required)
 
 ## Installing
